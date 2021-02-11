@@ -1,6 +1,7 @@
 # Arduino-DTMF-Lock
+****>>>>>DTMF BASED PASSWORD PROTECTED LOCK SYSTEM <<<<<****
 
-***I completed this project on 30 Sept. 2018 in 3rd Semester of B. Tech***********
+***I had completed this project on 30 Sept. 2018 in 3rd Semester of B. Tech***
 
 I think this is unique type of lock you find on Internet or github because its not easy to make password based lock using DTMF
 
